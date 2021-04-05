@@ -1,55 +1,6 @@
 {
 	"operadores": [
-		{
-			"tiempoInactividad": 2,
-			"codigo": 40595,
-			"tiempoActividad": 2,
-			"pdv": 0,
-			"articulos": 1003,
-			"ventas": 3230.6699999999998,
-			"clientes": 66,
-			"nombre": "Generico"
-		},
-		{
-			"tiempoInactividad": 5,
-			"codigo": 25202,
-			"tiempoActividad": 0,
-			"pdv": 17,
-			"articulos": 119,
-			"ventas": 510.72,
-			"clientes": 1,
-			"nombre": "Generico"
-		},
-		{
-			"tiempoInactividad": 2,
-			"codigo": 28088,
-			"tiempoActividad": 2,
-			"pdv": 9,
-			"articulos": 640,
-			"ventas": 2154.89,
-			"clientes": 113,
-			"nombre": "Generico"
-		},
-		{
-			"tiempoInactividad": 5,
-			"codigo": 31729,
-			"tiempoActividad": 4,
-			"pdv": 14,
-			"articulos": 2669,
-			"ventas": 7836.469999999999,
-			"clientes": 121,
-			"nombre": "Generico"
-		},
-		{
-			"tiempoInactividad": 5,
-			"codigo": 40325,
-			"tiempoActividad": 4,
-			"pdv": 5,
-			"articulos": 3007,
-			"ventas": 9248.150000000001,
-			"clientes": 115,
-			"nombre": "Generico"
-		},
+		
 		{
 			"tiempoInactividad": 5,
 			"codigo": 40322,
