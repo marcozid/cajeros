@@ -2,16 +2,6 @@
 	"operadores": [
 		
 		{
-			"tiempoInactividad": 5,
-			"codigo": 40322,
-			"tiempoActividad": 4,
-			"pdv": 40,
-			"articulos": 2617,
-			"ventas": 7356.48,
-			"clientes": 113,
-			"nombre": "Generico"
-		},
-		{
 			"tiempoInactividad": 2,
 			"codigo": 22435,
 			"tiempoActividad": 2,
